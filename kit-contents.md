@@ -12,7 +12,7 @@ Your kit should contain:
 | DHT-11 digital temperature / humidity sensor | 1 | |
 | Piezo buzzer | 1 | |
 | Sound detection module | 1 | |
-| LED & resistor pack, 5x LEDs & 5x resistors | 1 |  |
+| LED & resistor pack, 5x LEDs & 5x 470ohm resistors | 1 |  |
 | M/F Jumper wire | 10 | |
 | M/M Jumper wire | 10 | |
 | Additional resistors, incl. 4k7 and 10k | 12 (mixed) | |
